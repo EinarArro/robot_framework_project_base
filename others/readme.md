@@ -1,0 +1,1 @@
+This folder is reserved for arbitrary files, that don't fit to any other folder.
